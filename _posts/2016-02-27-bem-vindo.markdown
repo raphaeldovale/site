@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Bem-vindo!"
+date:   2016-02-27 22:32:29 -0300
+categories: textos
+---
+Olá, nesse site você encontrará tutoriais e dicas sobre o desenvolvimento de sistemas. Criei essa página principalmente para ajudar os meus alunos orientandos com dificuldades em tecnologias que eles (ainda) não compreendem muito bem. Um dos objetivo é classificar os diversos tutoriais em níveis de dificuldade: fácil, médio e difícil.
