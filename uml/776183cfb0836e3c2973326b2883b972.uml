@@ -1,0 +1,18 @@
+@startuml
+
+Actor usuário as user
+
+node smartphone {
+  artifact "aplicação frontend" as frontend
+}
+
+node servidor {
+  artifact "aplicação backend" as backend
+  database "banco de dados" as db
+}
+user -> frontend
+frontend -> backend
+backend -> db
+
+
+@enduml

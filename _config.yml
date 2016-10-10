@@ -19,3 +19,5 @@ github_username:  raphaeldovale
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+gems: ['jekyll-plantuml']

@@ -1,0 +1,9 @@
+@startuml
+
+Actor usuário
+
+node smartphone {
+  artifact aplicacao_frontend
+}
+
+@enduml
