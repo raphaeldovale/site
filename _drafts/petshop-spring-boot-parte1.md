@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Trabalhando com Spring-boot para desenvolver uma aplicação mobile"
+title:  "PetShop com backend Spring-boot - PARTE 1 - Configurando"
 date:   2016-02-27 22:32:29 -0300
 categories: textos desenvolvimento java
+
 ---
 
 # Introdução
@@ -12,6 +13,8 @@ O _Spring_ [^spring] é uma entidade que produz uma série de ferramentas que au
 Depois da grande popularização do Spring, os seus produtores resolveram tentar simplificar a adoção ao introduzir o _Spring Boot_ [^springBoot]. Resumidamente, o Spring Boot é uma maneira muito rápida de se construir aplicações de qualquer tipo utilizando os recursos do Spring. É um produto excelente para a criação de protótipos, microserviços, pequenas aplicações ou até mesmo iniciar a produção de uma aplicação de grande porte. Também é uma excelente plataforma para se construir um TCC =)
 
 Esse artigo busca introduzir o Spring Boot e apresentar uma pequena aplicação e está organizado da seguinte maneira: (1) Introdução: nesse tópico, falarei sobre o projeto que nós criaremos contando seus requisitos funcionais e não funcionais. (2) Pré-requisitos - aqui nós falaremos das ferramentas que utilizaremos e como instalá-las. (3) Implementação - por fim, com todos os pré-requisitos instalados, nós iremos fazer uma implementação simples de uma aplicação _backend_ que será usada em outro artigo para a elaboração de uma aplicação _mobile_.
+
+Nessa primeira parte nós iremos preparar o ambiente e falar do nosso projeto piloto. Ao final dessa parte, você deve ser capaz de configurar todo o ambiente e baixar o código inicial para começar a desenvolver a aplicação a partir da segunda parte.
 
 ### Aplicação de exemplo
 
@@ -49,12 +52,34 @@ Apenas a aplicação backend será descrita nesse artigo. Futuros artigos aprese
 
 # Pré-requisitos
 
+Para utilizarmos os exemplos desse artigo e dos próximos, será preciso ajustar o ambiente na sua máquina em alguns pequenos passos.
+
+### Java
+
+Todos os exemplos aqui utilizam a última versão do [Java SDK 8](http://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html). Baixe e instale a última versão para poder continuar.
+
+### Eclipse
+
+Esse artigo, seus exemplos e imagens foram produzidos utilizando o Eclipse, versão
+Neon ([clique aqui para baixar](http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/neon1a)).
+
 ### Maven
+
+O [Apache Maven](https://maven.apache.org/) é um gerenciador de dependências muito conhecido no universo Java. Para instalá-lo, siga as instruções:
+
+
+1. Baixe o Maven [aqui](http://ftp.unicamp.br/pub/apache/maven/maven-3/3.3.9/binaries/apache-maven-3.3.9-bin.zip).
+
+2. Descompacte o arquivo zip
+3. TODO
 
 ### Spring-boot
 
+* Descrição do Spring-Boot
 
 # Implementação
+
+* Baixar repositório GIT com a versão inicial e rodar
 
 # Referencias
 
