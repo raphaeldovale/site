@@ -65,21 +65,15 @@ Neon ([clique aqui para baixar](http://www.eclipse.org/downloads/packages/eclips
 
 ### Maven
 
-O [Apache Maven](https://maven.apache.org/) é um gerenciador de dependências muito conhecido no universo Java. Para instalá-lo, siga as instruções:
-
-
-1. Baixe o Maven [aqui](http://ftp.unicamp.br/pub/apache/maven/maven-3/3.3.9/binaries/apache-maven-3.3.9-bin.zip).
-
-2. Descompacte o arquivo zip
-3. TODO
-
-### Spring-boot
-
-* Descrição do Spring-Boot
+O [Apache Maven](https://maven.apache.org/) é um gerenciador de dependências muito conhecido no universo Java. O Eclipse já vem com uma versão dele embutido, mas você pode baixar uma versão standalone [aqui](http://ftp.unicamp.br/pub/apache/maven/maven-3/3.3.9/binaries/apache-maven-3.3.9-bin.zip)
 
 # Implementação
 
-* Baixar repositório GIT com a versão inicial e rodar
+* Faça o download do código inicial [aqui](https://github.com/raphaeldovale/site-tutorials-petshop-spring-boot-part-1). Clique no botão verde "clone or download" para baixar.
+* Descompacte o zip em um diretório desejado.
+* Com o Eclipse, vá em "file" -> "import" e selecione "Existing maven projects"
+* Na tela seguinte, selecione o diretório do projeto baixado. Depois, clique em "finished"
+
 
 # Referencias
 
